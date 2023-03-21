@@ -1,0 +1,11 @@
+C:\Users\levir\source\repos\PesoIdeal\bin\Debug\PesoIdeal.exe.config
+C:\Users\levir\source\repos\PesoIdeal\bin\Debug\PesoIdeal.exe
+C:\Users\levir\source\repos\PesoIdeal\bin\Debug\PesoIdeal.pdb
+C:\Users\levir\source\repos\PesoIdeal\obj\Debug\PesoIdeal.csproj.AssemblyReference.cache
+C:\Users\levir\source\repos\PesoIdeal\obj\Debug\PesoIdeal.csproj.SuggestedBindingRedirects.cache
+C:\Users\levir\source\repos\PesoIdeal\obj\Debug\PesoIdeal.Form1.resources
+C:\Users\levir\source\repos\PesoIdeal\obj\Debug\PesoIdeal.Properties.Resources.resources
+C:\Users\levir\source\repos\PesoIdeal\obj\Debug\PesoIdeal.csproj.GenerateResource.cache
+C:\Users\levir\source\repos\PesoIdeal\obj\Debug\PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\levir\source\repos\PesoIdeal\obj\Debug\PesoIdeal.exe
+C:\Users\levir\source\repos\PesoIdeal\obj\Debug\PesoIdeal.pdb
